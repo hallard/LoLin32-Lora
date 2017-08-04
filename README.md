@@ -48,7 +48,8 @@ Lolin32      Shield Feature
 
 Schematic  
 =========
-![schematic](https://raw.githubusercontent.com/hallard/LoLin32-Lora/master/pictures/LoLin32-Lora-sch.png)  
+
+<img src="https://github.com/hallard/LoLin32-Lora/raw/master/pictures/LoLin32-Lora-sch.png">
 
 Firmware  
 ========
@@ -56,8 +57,9 @@ Firmware
 
 Boards  
 ======
-<img src="https://raw.githubusercontent.com/hallard/LoLin32-Lora/master/pictures/LoLin32-Lora-top.png" alt="Top">&nbsp;
-<img src="https://raw.githubusercontent.com/hallard/LoLin32-Lora/master/pictures/LoLin32-Lora-bot.png" alt="Bottom">
+<img src="https://github.com/hallard/LoLin32-Lora/raw/master/pictures/LoLin32-Lora-top.png" alt="Top">&nbsp;
+<img src="https://github.com/hallard/LoLin32-Lora/raw/master/pictures/LoLin32-Lora-bot.png" alt="Bottom">
+
 
 You can order the PCB of this board at [PCBs.io][3] if you do so, PCBs.io give me discount that allow me to buy some new created boards.
 
