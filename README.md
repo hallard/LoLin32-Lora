@@ -46,6 +46,12 @@ Lolin32      Shield Feature
   IO15  <----> Push Button
 ```
 
+**Do not forget to join (solder) the correct LoRa antenna trace** depending on module you place (RFM95 or RN2483), see picture below.
+
+<img src="https://github.com/hallard/LoLin32-Lora/raw/master/pictures/LoLin32-Lora-Solder-Pad-Antenna.jpg" alt="Antenna Solder Pad">
+
+And as classic advice, **connect the LoRa antenna before powering** the board to avoid any damage to LoRa module
+
 # Schematic  
 
 <img src="https://github.com/hallard/LoLin32-Lora/raw/master/pictures/LoLin32-Lora-sch.png">
@@ -59,8 +65,7 @@ Lolin32      Shield Feature
 <img src="https://github.com/hallard/LoLin32-Lora/raw/master/pictures/LoLin32-Lora-top.png" alt="Top">&nbsp;
 <img src="https://github.com/hallard/LoLin32-Lora/raw/master/pictures/LoLin32-Lora-bot.png" alt="Bottom">
 
-
-You can order the PCB of this board at [PCBs.io][3] if you do so, PCBs.io give me discount that allow me to buy some new created boards.
+You can order the PCB of this board at [PCBs.io][3]. PCBs.io give me some reward when you order my designed boards from their site. This is pretty good, because I can use these rewards to create and design new boards and order them for free, so if you don't care about PCB manufacturer please use PCBs.io.
 
 # Assembled boards (V1.0)
 
