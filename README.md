@@ -10,7 +10,9 @@ This shield is used to hold LoRa modules such as HopeRF [RFM95][4] or Mictrochip
 - 1 x WS2812B Type LED for visual indication
 - Added footprint for Microchip 24AA02E64 64 bits serial number (DEVEUI)
 
-Take care that WeMos changed Lolin32 format, you need to choose V1.0.0 that you can find on ebay, [banggood][10] or aliexpress. Wemos does net seem to produce this board anymore. They do now Provide WeMos [Lolin32 Pro][21] or [Lolin32 Lite][22]
+**Take care that WeMos changed Lolin32 format**, you need to choose V1.0.0 that you can find on ebay, [banggood][10] or aliexpress. Wemos does net seem to produce this board anymore. They do now Provide WeMos [Lolin32 Pro][21] or [Lolin32 Lite][22]
+
+**So be sure to order board in the center of the picture above**
 
 # Detailed Description
 
