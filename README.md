@@ -61,7 +61,17 @@ You can order the PCB of this board at [PCBs.io][3] if you do so, PCBs.io give m
 
 # Assembled boards (V1.0)
 
-TBD   
+## With RFM95
+
+<img src="https://github.com/hallard/LoLin32-Lora/raw/master/pictures/LoLin32-Lora-RFM95-Assembled.jpg" alt="LoraNode32 with RFM95">
+
+## With RN2483
+
+<img src="https://github.com/hallard/LoLin32-Lora/raw/master/pictures/LoLin32-Lora-RN2483-Assembled.jpg" alt="LoraNode32 with RN2483">
+
+## Both LoRa modules with LoLin32
+
+<img src="https://github.com/hallard/LoLin32-Lora/raw/master/pictures/LoLin32-Lora-both.jpg" alt="LoraNode32 in 2 versions with LoLin32">
 
 # License
 
