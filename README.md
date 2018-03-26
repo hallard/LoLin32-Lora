@@ -1,5 +1,7 @@
 # ESP32 WeMos LoLin32 Shield for HopeRF RFM95 RFM96 RFM98 or RN2483/RN2903 Lora Modules
 
+<img src="https://github.com/hallard/LoLin32-Lora/raw/master/pictures/LoLin32-Lora-both.jpg" alt="LoraNode32 in 2 versions with LoLin32">
+
 This shield is used to hold LoRa modules such as HopeRF [RFM95][4] or Mictrochip [RN2483][7] with WeMos ESP32 [LoLin32][20] boards it has the followong features:
 - I2C Pullups placement
 - Classic I2C connector with SCL/SDA and 3V3/GND reversable pin by solder pad
@@ -68,10 +70,6 @@ You can order the PCB of this board at [PCBs.io][3] if you do so, PCBs.io give m
 ## With RN2483
 
 <img src="https://github.com/hallard/LoLin32-Lora/raw/master/pictures/LoLin32-Lora-RN2483-Assembled.jpg" alt="LoraNode32 with RN2483">
-
-## Both LoRa modules with LoLin32
-
-<img src="https://github.com/hallard/LoLin32-Lora/raw/master/pictures/LoLin32-Lora-both.jpg" alt="LoraNode32 in 2 versions with LoLin32">
 
 # License
 
