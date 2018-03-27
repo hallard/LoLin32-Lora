@@ -8,11 +8,14 @@ This shield is used to hold LoRa modules such as HopeRF [RFM95][4] or Mictrochip
 - Footprint for RFM95/96/98 or RN2483/RN2903 Lora module
 - Footprint for choosing single Wire, SMA or u-FL Antenna type 
 - 1 x WS2812B Type LED for visual indication
+- 1 x Push Button
 - Added footprint for Microchip 24AA02E64 64 bits serial number (DEVEUI)
 
 **Take care that WeMos changed Lolin32 format**, you need to choose V1.0.0 that you can find on ebay, [banggood][10] or aliexpress. Wemos does net seem to produce this board anymore. They do now Provide WeMos [Lolin32 Pro][21] or [Lolin32 Lite][22]
 
 **So be sure to order board in the center of the picture above**
+
+You can also check the shield for the [Lolin32 Lite][9] version. 
 
 # Detailed Description
 
@@ -58,7 +61,7 @@ And as classic advice, **connect the LoRa antenna before powering** the board to
 
 # Firmware  
 
-[firmware](https://github.com/hallard/LoLin32-Lora/tree/master/firmware)  
+There is no firmware available, but you can have a large demo of features and a full working LoRa node (with RFM95) with this excellent [ESP32-Paxcounter](https://github.com/cyberman54/ESP32-Paxcounter/) software, it's a must see.
 
 # Boards  
 
@@ -94,6 +97,7 @@ See news and other projects on my [blog][2]
 [5]: https://github.com/hallard/ESP-1ch-Gateway/
 [6]: https://github.com/matthijskooijman/arduino-lmic/pull/34
 [7]: https://www.microchip.com/wwwproducts/en/RN2483
+[9]: https://github.com/hallard/LoLin32-Lite-Lora
 
 [10]: http://www.banggood.com/WeMos-LOLIN32-V1_0_0-WiFi-Bluetooth-Board-Based-ESP-32-4MB-FLASH-p-1164252.html
 
