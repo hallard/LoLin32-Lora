@@ -11,7 +11,7 @@ This shield is used to hold LoRa modules such as HopeRF [RFM95][4] or Mictrochip
 - 1 x Push Button
 - Added footprint for Microchip 24AA02E64 64 bits serial number (DEVEUI)
 
-**Take care that WeMos changed Lolin32 format**, you need to choose V1.0.0 that you can find on ebay, [banggood][10] or aliexpress. Wemos does net seem to produce this board anymore. They do now Provide WeMos [Lolin32 Pro][21] or [Lolin32 Lite][22]
+**Take care that WeMos changed Lolin32 format**, you need to choose V1.0.0 that you can find on ebay, [banggood][10] or aliexpress. ~~Wemos does net seem to produce this board anymore~~. They're Back [here][11]. They do now Provide WeMos [Lolin32 Pro][21] or [Lolin32 Lite][22]
 
 **So be sure to order board in the center of the picture above**
 
@@ -100,6 +100,7 @@ See news and other projects on my [blog][2]
 [9]: https://github.com/hallard/LoLin32-Lite-Lora
 
 [10]: http://www.banggood.com/WeMos-LOLIN32-V1_0_0-WiFi-Bluetooth-Board-Based-ESP-32-4MB-FLASH-p-1164252.html
+[11]: https://www.aliexpress.com/store/product/WEMOS-LOLIN32-V1-0-0-wifi-bluetooth-board-based-ESP-32-4MB-FLASH/1331105_32808551116.html
 
 [20]: https://wiki.wemos.cc/products:lolin32:lolin32
 [21]: https://wiki.wemos.cc/products:lolin32:lolin32_pro
